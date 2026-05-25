@@ -20,7 +20,6 @@ To analyze sales data from Maven Roasters in order to:
 ## 🛠 Tools & Technologies
 
 - Power BI (Data Visualization & Dashboarding)  
-- SQL (Data extraction and analysis)  
 - Excel (Data cleaning and preprocessing)  
 
 ## 📈 Key Business Insights
